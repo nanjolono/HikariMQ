@@ -8,6 +8,7 @@ public class HikariMqApplication {
 
     public static void main(String[] args) {
         SpringApplication.run ( HikariMqApplication.class , args );
+	//dev D 
     }
 
 }
